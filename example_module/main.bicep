@@ -29,3 +29,5 @@ module publicIPModule 'module/publicIp.bicep' = {
 //   }
 // }
 
+// output publicIpOutput string = publicIPModule.outputs.publicIpOutput
+

@@ -15,3 +15,5 @@ resource publicIP 'Microsoft.Network/publicIPAddresses@2021-02-01' = {
     publicIPAddressVersion: 'IPv4'
   }
 }
+
+// output publicIpOutput string = publicIP.properties.ipAddress
