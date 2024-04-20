@@ -1,6 +1,8 @@
 <h1 style="text-align: center;">Global Azure 2024 Ft. Lauderdale</h1>
 
 ### Bicep is a extermely readable and friend IaC language for Azure
+Bicep [Documentation](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/) 
+
 More [Bicep Examples here](https://github.com/Azure/azure-docs-bicep-samples)
 
 In this repo you can find basic examples plus the command line to run them
