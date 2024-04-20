@@ -27,4 +27,7 @@ In this repo you can find basic examples plus the command line to run them
     ```
 
 ### What is next after you finish playing with Bicep ?
-Checkout [Azure Stack](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-stack/)
+#### Checkout:
+- [Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/?view=azure-devops)
+
+- [Azure Stack](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-stack/)
